@@ -14,5 +14,8 @@ public class Processor {
      * Pushes an article for processing
      */
     private void pushArticle(Article article) {
+
+
+
     }
 }

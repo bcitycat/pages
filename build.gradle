@@ -22,4 +22,5 @@ repositories {
 dependencies {
     testCompile 'junit:junit:+'
     compile 'net.sourceforge.htmlunit:htmlunit:+'
+    compile 'org.neo4j:neo4j:+'
 }
