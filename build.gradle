@@ -21,4 +21,5 @@ repositories {
 
 dependencies {
     testCompile 'junit:junit:+'
+    compile 'net.sourceforge.htmlunit:htmlunit:+'
 }
